@@ -1,0 +1,3 @@
+# RUSTING #
+I'm currently learning how to programm in rust. I saw an old No Boilerplate video about it and had a Rust basics book lying around so I restarted learning rust. 
+I'm not entirely sure what I'm going to do with this language but I'll make ure I use it for something good...
