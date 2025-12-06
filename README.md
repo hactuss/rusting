@@ -4,8 +4,7 @@ I'm not entirely sure what I'm going to do with this language but I'll make ure 
 
 ---
 
-my first real thing i built in rust was a simplified [markov chain](https://en.wikipedia.org/wiki/Markov_chain). 
+The first thing I built was a simplified [markov chain](https://en.wikipedia.org/wiki/Markov_chain). 
 <!-- ![mc_graph](https://upload.wikimedia.org/wikipedia/commons/2/2b/Markovkate_01.svg) -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Markovkate_01.svg" alt="mc_graph" width="200"/>
-
-I took this graph as refernce and modeled a function after it. It checks if the input values are valid and then prints a little ascii layout of the chain.
+I took this graph as refernce and modeled a function after it. It checks if the inputvalues are valid and then prints a little ascii layout of the chain.
