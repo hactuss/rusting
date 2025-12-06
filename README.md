@@ -5,5 +5,5 @@ I'm not entirely sure what I'm going to do with this language but I'll make ure 
 ---
 
 my first real thing i built in rust was a simplified [markov chain](https://en.wikipedia.org/wiki/Markov_chain). 
-![[https://upload.wikimedia.org/wikipedia/commons/2/2b/Markovkate_01.svg]]
+![mc_graph](https://upload.wikimedia.org/wikipedia/commons/2/2b/Markovkate_01.svg)
 I took this graph as refernce and modeled a function ater it. it check if the input values are valid and then prints a little ascii layout of the chain.
